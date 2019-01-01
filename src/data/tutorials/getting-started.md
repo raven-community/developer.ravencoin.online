@@ -12,7 +12,7 @@ The popularity of Ravencoin is on the rise and RVNBOX SDK aims to channel all th
 
 ### Goal
 
-RVNBOX is an incredibly powerful and intuitive SDK which lets developers build world class applications quickly. It’s built with modern web tech which is familiar to developers all over the world. We launched [developer.ravencoin.online](https://developer.ravencoin.online/) to help beginners and old pros hone their blockchain dev skills. The goal of this article is to show the first steps needed to set up your development environment and start playing around with the RVNBOX SDK.
+RVNBOX is an incredibly powerful and intuitive SDK which lets developers build world class applications quickly. It’s built with modern web tech which is familiar to developers all over the world. We launched [developer.ravencoin.online](http://developer.ravencoin.online/) to help beginners and old pros hone their blockchain dev skills. The goal of this article is to show the first steps needed to set up your development environment and start playing around with the RVNBOX SDK.
 
 In this post we’ll cover the following:
 

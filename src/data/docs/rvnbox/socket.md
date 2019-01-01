@@ -11,7 +11,7 @@ Create new Socket.
 #### Arguments
 
 1.  config `Object`: with properties:
-    1.  restURL `String`: optional, Defaults to `https://rest.ravencoin.online`
+    1.  restURL `String`: optional, Defaults to `http://rest.ravencoin.online`
     2.  callback `Function`: optional
 
 #### Result
@@ -21,7 +21,7 @@ Socket `Socket`
 #### Examples
 
       // instance of Socket
-      let socket = new RVNBOX.Socket({callback: () => {console.log('connected')}, restURL: 'https://rest.ravencoin.online'})
+      let socket = new RVNBOX.Socket({callback: () => {console.log('connected')}, restURL: 'http://rest.ravencoin.online'})
 
 ### `listen`
 
@@ -37,7 +37,7 @@ data `Object`: data returned in real\-time over a websocket
 
 #### Examples
 
-      let socket = new RVNBOX.Socket({callback: () => {console.log('connected')}, restURL: 'https://rest.ravencoin.online'})
+      let socket = new RVNBOX.Socket({callback: () => {console.log('connected')}, restURL: 'http://rest.ravencoin.online'})
       socket.listen('transactions', (message) => {
         console.log(message)
 

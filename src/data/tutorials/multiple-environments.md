@@ -36,10 +36,10 @@ Next open up the newly created `rvnbox.js` file and add config for your local RV
 ```javascript
 networks: {
   development: {
-    restURL: "https://trest.ravencoin.online/v1/"
+    restURL: "http://trest.ravencoin.online/v2/"
   },
   production: {
-    restURL: "https://rest.ravencoin.online/v1/"
+    restURL: "http://rest.ravencoin.online/v2/"
   }
 }
 ```

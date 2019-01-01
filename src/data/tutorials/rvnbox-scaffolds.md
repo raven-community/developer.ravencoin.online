@@ -76,7 +76,7 @@ To quickly create a [Node JS app w/ RVNBOX bindings](https://github.com/raven-co
 
 ### Config
 
-By default your new app will connect to RVNBOX Cloud over [REST](https://rest.ravencoin.online/). If you want to connect to your own REST services pass in a config object when instantiating `rvnbox-sdk`.
+By default your new app will connect to RVNBOX Cloud over [REST](http://rest.ravencoin.online/). If you want to connect to your own REST services pass in a config object when instantiating `rvnbox-sdk`.
 
 ```
 let RVNBOX = new RVNBOXSDK({

@@ -35,7 +35,7 @@ This will create a scaffold directory structure for a new $RVN app along w/ a co
 ```json
 networks: {
     development: {
-        restURL: "https://rest.ravencoin.online/v1/"
+        restURL: "http://rest.ravencoin.online/v2/"
     }
 }
 ```

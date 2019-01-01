@@ -71,7 +71,7 @@ const isLegacyAddress = RVNBOX.Address.isLegacyAddress(address)
 
 #### REST
 
-RVNBOX SDK has [REST](https://rest.ravencoin.online) integration bundled. The scaffold calls [Address.details](https://github.com/raven-community/rvnbox-scaffold-websockets/blob/master/src/App.js#L121) to get back utxo for an address.
+RVNBOX SDK has [REST](http://rest.ravencoin.online) integration bundled. The scaffold calls [Address.details](https://github.com/raven-community/rvnbox-scaffold-websockets/blob/master/src/App.js#L121) to get back utxo for an address.
 
 ```javascript
 RVNBOX.Address.details(addr).then(

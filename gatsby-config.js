@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'developer.ravencoin.online',
-    siteUrl: 'https://developer.ravencoin.online',
+    siteUrl: 'http://developer.ravencoin.online',
   },
   plugins: [
     `gatsby-plugin-flow`,

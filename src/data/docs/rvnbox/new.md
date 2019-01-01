@@ -12,7 +12,7 @@ RVNBOX will generate a new app w/ empty `src/` and `test/` directories and a `rv
 new [options] <name>
   Options:
   -s, --scaffold <scaffold>        The framework to use. Options include react, angular, node, next, vue and websockets. (Default: react)
-  -r, --restURL <restURL>          The rest URL to use. default: https://trest.ravecoin.online/v1/
+  -r, --restURL <restURL>          The rest URL to use. default: http://trest.ravencoin.online/v2/
   -e, --environment <environment>  environment to map to restURL. Ex: production, staging. Default: development
   -h, --help                       output usage information
 
@@ -28,7 +28,7 @@ Your `rvnbox.js` file will contain the default settings to connect to ravencoin.
 exports.config = {
   networks: {
     development: {
-      restURL: 'https://trest.ravencoin.online/v1/',
+      restURL: 'http://trest.ravencoin.online/v2/',
     },
   },
 }

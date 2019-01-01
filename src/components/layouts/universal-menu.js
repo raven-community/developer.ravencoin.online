@@ -246,7 +246,7 @@
                 {
                   t:
                     'Developer Platform <font color="#fab915"><em>[new]</em></font>',
-                  h: 'https://developer.ravencoin.online/',
+                  h: 'http://developer.ravencoin.online/',
                 },
                 {
                   t: 'Oracle <font color="#fab915"><em>[new]</em></font>',

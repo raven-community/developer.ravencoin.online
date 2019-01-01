@@ -158,7 +158,7 @@
             {
               title: 'About ravencoin.online',
               content:
-                '<p>ravencoin.online is your premier source for everything Ravencoin related. We can help you choose a ravencoin <a id="universal-footer-link" href="https://ravencoin.online/choose-your-wallet">wallet</a>. You can also read the latest <a id="universal-footer-link" href="https://news.ravencoin.online/">news</a>, or engage with the community on our <a id="universal-footer-link" href="https://www.ravencointalk.org/">Ravencoin Forum</a>. Please keep in mind that this is a community website that lists wallets, exchanges and other ravencoin related companies.</p>',
+                '<p>ravencoin.online is your premier source for everything Ravencoin related. We can help you choose a ravencoin <a id="universal-footer-link" href="http://ravencoin.online/choose-your-wallet">wallet</a>. You can also read the latest <a id="universal-footer-link" href="https://news.ravencoin.online/">news</a>, or engage with the community on our <a id="universal-footer-link" href="https://www.ravencointalk.org/">Ravencoin Forum</a>. Please keep in mind that this is a community website that lists wallets, exchanges and other ravencoin related companies.</p>',
             },
           ],
           col4: [
@@ -172,7 +172,7 @@
                 },
                 {
                   t: 'Build on Ravencoin',
-                  h: 'https://developer.ravencoin.online/',
+                  h: 'http://developer.ravencoin.online/',
                 },
                 {
                   t: 'Tip with Ravencoin',

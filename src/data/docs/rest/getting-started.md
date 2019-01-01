@@ -4,8 +4,8 @@ icon: home
 ordinal: 0
 ---
 
-## [REST interface](https://rest.ravencoin.online)
+## [REST interface](http://rest.ravencoin.online)
 
 Documentation and examples for the REST coming soon.
 
-[Explore REST Interface](https://rest.ravencoin.online)
+[Explore REST Interface](http://rest.ravencoin.online)

@@ -37,7 +37,7 @@ var delay = Math.floor(Math.random() * 5000) + 1000;
 
 $.get("front_address.txt", function(address) {
   var rvnaddress = address;
-  var apiout = "https://rest.ravencoin.online/v1/address/details/"+rvnaddress;
+  var apiout = "http://rest.ravencoin.online/v2/address/details/"+rvnaddress;
   window.apiout = apiout;
 });
 

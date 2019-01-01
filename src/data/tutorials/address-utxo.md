@@ -8,7 +8,7 @@ publishedAt: 2018-12-20
 updatedAt: 2018-12-20
 ---
 
-Sending transactions is at the heart of RVN. RVNBOX has been able to send transactions for a while but w/ RVNBOX Cloud and [REST](https://rest.ravencoin.online) taking shape we wanted to revisit the steps for sending transactions to show how to best leverage the new functionality.
+Sending transactions is at the heart of RVN. RVNBOX has been able to send transactions for a while but w/ RVNBOX Cloud and [REST](http://rest.ravencoin.online) taking shape we wanted to revisit the steps for sending transactions to show how to best leverage the new functionality.
 
 ## Setup
 

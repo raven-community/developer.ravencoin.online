@@ -139,12 +139,12 @@ this.pubKey = Buffer(RVNBOX.ECPair.toPublicKey(ecpair), 'hex')
 
 #### REST
 
-Scale.raven uses [ravencoin.online's REST API](https://rest.ravencoin.online) to send batch requests of tx [data to the blockchain](https://github.com/raven-community/rvn-stresstest-web/blob/master/src/stresstest-lib/utils.js#L3-L9).
+Scale.raven uses [ravencoin.online's REST API](http://rest.ravencoin.online) to send batch requests of tx [data to the blockchain](https://github.com/raven-community/rvn-stresstest-web/blob/master/src/stresstest-lib/utils.js#L3-L9).
 
 ```javascript
 if (window.scaleRavenSettings.isTestnet) {
   RVNBOX = new RVNBOXSDK({
-    restURL: 'https://trest.ravencoin.online/v1/',
+    restURL: 'http://trest.ravencoin.online/v2/',
   })
 } else {
   RVNBOX = new RVNBOXSDK()
